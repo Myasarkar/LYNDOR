@@ -1,11 +1,34 @@
-<div align="center">
+# LYNDOR | Çatalca Güzellik & Wellness Merkezi
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+![LYNDOR Banner](https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=1200&h=400)
 
-  <h1>Built with AI Studio</h2>
+LYNDOR, Çatalca'da uzman hemşire Bilge Çelik Dönmez rehberliğinde hizmet veren, bilimsel temelli cilt onarımı ve butik güzellik deneyimi sunan bir wellness merkezidir. Bu depo, işletmenin resmi web sitesinin kaynak kodlarını içermektedir.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Özellikler
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- **Gelişmiş Hizmet Kataloğu:** Kategorilere göre filtrelenebilir uzmanlık alanları.
+- **Güzellik Rehberi (Blog):** Cilt sağlığı ve bakım rutinleri hakkında bilgilendirici içerikler.
+- **Responsive Tasarım:** Tüm cihazlarda (Mobil, Tablet, Masaüstü) kusursuz görünüm.
+- **WhatsApp Entegrasyonu:** Hızlı randevu ve bilgi hattı erişimi.
+- **SEO Optimizasyonu:** Arama motorları için optimize edilmiş meta veriler ve yapısal veriler (JSON-LD).
 
-</div>
+## 🛠️ Teknoloji Yığını
+
+- **Frontend:** React 19, TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router 7
+- **Icons:** Lucide React & Custom SVGs
+
+## 👨‍💻 Geliştirici
+
+Bu web sitesi **[MYKSoft](https://github.com/MYKSoft)** tarafından geliştirilmiştir.
+
+## 📄 Lisans
+
+Bu projenin tüm hakları saklıdır (**Proprietary License**). Kodların izinsiz kopyalanması, değiştirilmesi, dağıtılması veya herhangi bir ortamda kullanılması kesinlikle yasaktır. 
+
+Detaylı bilgi için [LICENSE](./LICENSE) dosyasını inceleyiniz.
+
+---
+© 2026 **LYNDOR Beauty & Wellness** | Powered by **MYKSoft**
