@@ -1,0 +1,10 @@
+{
+  "name": "Remix: LYNDOR | Çatalca Güzellik & Wellness Merkezi",
+  "short_name": "LYNDOR",
+  "description": "Çatalca'da cilt onarımı, anti-aging ve medikal estetik alanında butik ve profesyonel hizmetler sunan güzellik merkeziniz.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C5A059",
+  "requestFramePermissions": []
+}
