@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
       
       <div className="border-t border-gray-900 pt-8 text-center">
         <p className="text-gray-600 text-[10px] uppercase tracking-[0.2em]">
-          © 2026 LYNDOR. ALL RIGHTS RESERVED. | POWERED BY <a href="https://github.com/MYKSoft" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A059] transition-colors">MYKSoft</a>
+          © 2026 LYNDOR. ALL RIGHTS RESERVED. | POWERED BY <a href="https://MYKsoft.vercel.app" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A059] transition-colors">MYKSoft</a>
         </p>
       </div>
     </footer>

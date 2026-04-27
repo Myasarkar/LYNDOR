@@ -22,7 +22,7 @@ LYNDOR, Çatalca'da uzman hemşire Bilge Çelik Dönmez rehberliğinde hizmet ve
 
 ## 👨‍💻 Geliştirici
 
-Bu web sitesi **[MYKSoft](https://github.com/MYKSoft)** tarafından geliştirilmiştir.
+Bu web sitesi **[MYKSoft](https://MYKsoft.vercel.app)** tarafından geliştirilmiştir.
 
 ## 📄 Lisans
 
@@ -31,4 +31,4 @@ Bu projenin tüm hakları saklıdır (**Proprietary License**). Kodların izinsi
 Detaylı bilgi için [LICENSE](./LICENSE) dosyasını inceleyiniz.
 
 ---
-© 2026 **LYNDOR Beauty & Wellness** | Powered by **MYKSoft**
+© 2026 **LYNDOR Beauty & Wellness** | Powered by **[MYKSoft](https://MYKsoft.vercel.app)**
